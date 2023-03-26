@@ -1,6 +1,8 @@
 # 💫 About Me:
 ❄️ Novosibirsk
+
 💻 QA Lead & SDET with 5+ years of experience
+
 ✒️ Technical content writer
 
 ## 🌐 Socials:
@@ -11,7 +13,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BorisLys&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BorisLys&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisLys&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BorisLys&icon=0&color=0)](https://visitcount.itsvg.in)
