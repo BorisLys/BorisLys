@@ -1,7 +1,7 @@
 # 💫 About Me:
 ❄️ Novosibirsk
 
-💻 QA Lead & SDET with 6+ years of experience
+💻 QA Lead & SDET with 7+ years of experience
 
 ✒️ Technical content writer
 
